@@ -1,5 +1,9 @@
-UserInspector Fix
+
+
+[DEPRICATED] UserInspector Fix
 ===========
+
+This mod is now depricated as the bug this aimed to fix is now officially fixed.
 
 This is a [MonkeyLoader](https://github.com/ResoniteModdingGroup/MonkeyLoader.GamePacks.ResoniteModLoader) mod for [Resonite](https://resonite.com/) that fixes the bugged user inspector by forcing the user inspector to always generate the user list, regardless if you're the host or not.
 
